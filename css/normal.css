@@ -23,3 +23,9 @@ html{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+img{
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+}

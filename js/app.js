@@ -17,7 +17,7 @@ $(document).ready(function() {
             name: "Dzień Kiszonej Amelki",
             badge: "KA",
             date: ["January/26/2020"],
-            description: "Dzień Kiszonej Amelki - W tym dniu każdy musi zjeść ogórka kiszonego.",
+            description: "Dzień Kiszonej Amelki - W tym dniu każdy musi zjeść ogórka kiszonego."             + "<img src='../../images/KA.jpg' />", //Zdjęcie (opcjonalnie)
             type: "event",
             color: "#1d8518",
             everyYear: true,
