@@ -77,7 +77,7 @@ $(document).ready(function() {
           {//Karolina
             name: "🥳 Urodziny Karoliny",
             badge: "Uro",
-            date: ["June/21/2022"],
+            date: ["July/21/2022"],
             description: 'Urodziny Karoliny 🎂',
             type: "birthday",
             color: Urodziny,
