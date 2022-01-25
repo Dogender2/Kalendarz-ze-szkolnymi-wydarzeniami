@@ -55,30 +55,30 @@ $(document).ready(function() {
           },
 
           {//Turek
-            name: "Urodziny Turka",
+            name: "🥳 Urodziny Turka",
             badge: "Uro",
             date: ["April/19/2022"],
-            description: 'Urodziny Turka',
+            description: 'Urodziny Turka 🎂',
             type: "birthday",
             color: Urodziny,
             everyYear: true,
           },
 
           {//Amelka
-            name: "Urodziny Amelki",
+            name: "🥳 Urodziny Amelki",
             badge: "Uro",
             date: ["April/28/2022"],
-            description: 'Urodziny Amelki',
+            description: 'Urodziny Amelki 🎂',
             type: "birthday",
             color: Urodziny,
             everyYear: true,
           },
 
           {//Karolina
-            name: "Urodziny Karoliny",
+            name: "🥳 Urodziny Karoliny",
             badge: "Uro",
             date: ["June/21/2022"],
-            description: 'Urodziny Karoliny',
+            description: 'Urodziny Karoliny 🎂',
             type: "birthday",
             color: Urodziny,
             everyYear: true,
