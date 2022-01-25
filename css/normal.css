@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body,
+html{
+    height: 100%;
+}
+
+.hero{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, rgb(221, 62, 62), rgb(243, 125, 56));
+    position: relative;
+}
+
+#calendar{
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
