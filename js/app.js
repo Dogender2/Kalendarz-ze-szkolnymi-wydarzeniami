@@ -1,7 +1,10 @@
 $(document).ready(function() {
 
-    //Kolory
+    //  Kolory
+    //    Szczególne wydarzenia
     let Urodziny = '#f74aef';
+    
+    //    Zwykłe kolory
     let DarkGreen = '#1d8518';
     let Lime = '#4ec75c';
     let Blue = '#514ced';
@@ -66,12 +69,12 @@ $(document).ready(function() {
           },
 
           {
-            name: "",
-            badge: "DK",
-            date: ["January/28/2022"],
-            description: "Dzień kłamstw - w tym dniu każdy może normalnie skłamać każdemu i nic się nie stanie.",
+            name: "Dzień innego plecaka",
+            badge: "IP",
+            date: ["March/11/2022"],
+            description: "Dzień innego plecaka - w tym dniu każdy przynosi książki i zeszyty w czymś innym niż plecak (zalecane jest przyniesienie w np. woreku, szufladzie itp.)",
             type: "event",
-            color: LightBlue,
+            color: Aqua,
             everyYear: true,
           },
 
