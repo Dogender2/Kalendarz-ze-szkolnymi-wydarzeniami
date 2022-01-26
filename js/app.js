@@ -3,6 +3,7 @@ $(document).ready(function() {
     //Kolory
     let Urodziny = '#f74aef';
     let DarkGreen = '#1d8518';
+    let Lime = '#86ff6b';
     let Blue = '#514ced';
     let Red = '#ff3030'
 
@@ -42,13 +43,13 @@ $(document).ready(function() {
             everyYear: true,
           },
 
-{
+          {
             name: "Dzień zazdrosnej Amelki",
             badge: "ZA",
             date: ["February/28/2022"],
             description: "Dzień zazdrosnej Amelki",
             type: "event",
-            color: Red,
+            color: Lime,
             everyYear: true,
           },
 
