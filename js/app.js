@@ -3,9 +3,11 @@ $(document).ready(function() {
     //Kolory
     let Urodziny = '#f74aef';
     let DarkGreen = '#1d8518';
-    let Lime = '#86ff6b';
+    let Lime = '#4ec75c';
     let Blue = '#514ced';
+    let LightBlue = '#45a8ff';
     let Red = '#ff3030'
+    let Aqua = '#45ffc4';
 
     
     
@@ -16,7 +18,7 @@ $(document).ready(function() {
           {
             name: "Dzień Piotrisha Demonisha",
             badge: "PD",
-            date: ["February/24/2022"],
+            date: ["March/24/2022"],
             description: "Dzień Piotrisha Demonisha - W tym dniu każdy mówi na każdego Piotrka Demonish, a każdy Piotr musi przyjść ubranym na czerwono.",
             type: "event",
             color: Red,
@@ -46,10 +48,30 @@ $(document).ready(function() {
           {
             name: "Dzień zazdrosnej Amelki",
             badge: "ZA",
-            date: ["February/28/2022"],
-            description: "Dzień zazdrosnej Amelki",
+            date: ["February/27/2022"],
+            description: "Dzień zazdrosnej Amelki" + "<img src='../../images/ZA.gif' />",
             type: "event",
             color: Lime,
+            everyYear: true,
+          },
+
+          {
+            name: "Dzień kłamstw",
+            badge: "DK",
+            date: ["January/28/2022"],
+            description: "Dzień kłamstw - w tym dniu każdy może normalnie skłamać każdemu i nic się nie stanie.",
+            type: "event",
+            color: LightBlue,
+            everyYear: true,
+          },
+
+          {
+            name: "",
+            badge: "DK",
+            date: ["January/28/2022"],
+            description: "Dzień kłamstw - w tym dniu każdy może normalnie skłamać każdemu i nic się nie stanie.",
+            type: "event",
+            color: LightBlue,
             everyYear: true,
           },
 
