@@ -72,7 +72,7 @@ $(document).ready(function() {
             name: "Dzień innego plecaka",
             badge: "IP",
             date: ["March/11/2022"],
-            description: "Dzień innego plecaka - w tym dniu każdy przynosi książki i zeszyty w czymś innym niż plecak (zalecane jest przyniesienie w np. woreku, szufladzie itp.)",
+            description: "Dzień innego plecaka - w tym dniu każdy przynosi książki i zeszyty w czymś innym niż plecak (zalecane jest przyniesienie w np. worku, szufladzie itp.)",
             type: "event",
             color: Aqua,
             everyYear: true,
