@@ -42,6 +42,15 @@ $(document).ready(function() {
             everyYear: true,
           },
 
+{
+            name: "Dzień zazdrosnej Amelki",
+            badge: "ZA",
+            date: ["February/28/2022"],
+            description: "Dzień zazdrosnej Amelki",
+            type: "event",
+            color: Red,
+            everyYear: true,
+          },
 
           //Urodziny:
           {//Moje
@@ -77,7 +86,7 @@ $(document).ready(function() {
           {//Karolina
             name: "🥳 Urodziny Karoliny",
             badge: "Uro",
-            date: ["June/21/2022"],
+            date: ["July/21/2022"],
             description: 'Urodziny Karoliny 🎂',
             type: "birthday",
             color: Urodziny,
